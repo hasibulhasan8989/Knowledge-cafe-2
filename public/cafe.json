@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "Mastering JavaScript in 30 Days",
+      "cover": "https://i.ibb.co.com/wh4Y2MrC/1.jpg",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/G4VxLNS6/boy2.jpg",
+      "posted_date": "2025-04-20",
+      "reading_time": 8,
+      "hashtags": ["#JavaScript", "#WebDevelopment", "#Coding"]
+    },
+    {
+      "id": 2,
+      "title": "The Future of AI: What to Expect",
+      "cover": "https://i.ibb.co.com/TxLfntPK/2.png",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co.com/V0hY97Sh/boy1.png",
+      "posted_date": "2025-04-18",
+      "reading_time": 6,
+      "hashtags": ["#AI", "#MachineLearning", "#FutureTech"]
+    },
+    {
+      "id": 3,
+      "title": "Designing for Accessibility",
+      "cover": "https://i.ibb.co.com/KjNcK6C7/3.png",
+      "author": "Amina Khan",
+      "author_img": "https://i.ibb.co.com/rKzqBKdf/girl1.jpg",
+      "posted_date": "2025-04-15",
+      "reading_time": 7,
+      "hashtags": ["#UX", "#Accessibility", "#Design"]
+    },
+    {
+      "id": 4,
+      "title": "Understanding Blockchain Beyond Crypto",
+      "cover": "https://i.ibb.co.com/ycHR84gx/4.jpg",
+      "author": "Liam Nguyen",
+      "author_img": "https://i.ibb.co.com/cSq0CmkP/girl2.jpg",
+      "posted_date": "2025-04-10",
+      "reading_time": 9,
+      "hashtags": ["#Blockchain", "#TechTrends", "#Innovation"]
+    }
+   
+  ]
+  
